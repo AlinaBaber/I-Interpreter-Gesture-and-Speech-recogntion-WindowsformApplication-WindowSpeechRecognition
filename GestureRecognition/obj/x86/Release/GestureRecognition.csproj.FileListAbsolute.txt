@@ -1,0 +1,119 @@
+C:\Users\TheMenace\Desktop\an M1\PPAM\Proiect\Aplicatie\GestureRecognition\GestureRecognition\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\TheMenace\Desktop\an M1\PPAM\Proiect\Aplicatie\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.MainForm.resources
+C:\Users\TheMenace\Desktop\an M1\PPAM\Proiect\Aplicatie\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.Properties.Resources.resources
+C:\Users\TheMenace\Desktop\an M1\PPAM\Proiect\Aplicatie\GestureRecognition\GestureRecognition\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\TheMenace\Desktop\an M1\PPAM\Proiect\Aplicatie\GestureRecognition\GestureRecognition\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\TheMenace\Desktop\an M1\PPAM\Proiect\Aplicatie\GestureRecognition\GestureRecognition\bin\Release\GestureRecognition.exe
+C:\Users\TheMenace\Desktop\an M1\PPAM\Proiect\Aplicatie\GestureRecognition\GestureRecognition\bin\Release\GestureRecognition.pdb
+C:\Users\TheMenace\Desktop\an M1\PPAM\Proiect\Aplicatie\GestureRecognition\GestureRecognition\bin\Release\AForge.Controls.dll
+C:\Users\TheMenace\Desktop\an M1\PPAM\Proiect\Aplicatie\GestureRecognition\GestureRecognition\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\TheMenace\Desktop\an M1\PPAM\Proiect\Aplicatie\GestureRecognition\GestureRecognition\bin\Release\AForge.Video.dll
+C:\Users\TheMenace\Desktop\an M1\PPAM\Proiect\Aplicatie\GestureRecognition\GestureRecognition\bin\Release\AForge.dll
+C:\Users\TheMenace\Desktop\an M1\PPAM\Proiect\Aplicatie\GestureRecognition\GestureRecognition\bin\Release\AForge.Imaging.dll
+C:\Users\TheMenace\Desktop\an M1\PPAM\Proiect\Aplicatie\GestureRecognition\GestureRecognition\bin\Release\AForge.Math.dll
+C:\Users\TheMenace\Desktop\an M1\PPAM\Proiect\Aplicatie\GestureRecognition\GestureRecognition\bin\Release\AForge.Controls.xml
+C:\Users\TheMenace\Desktop\an M1\PPAM\Proiect\Aplicatie\GestureRecognition\GestureRecognition\bin\Release\AForge.Video.xml
+C:\Users\TheMenace\Desktop\an M1\PPAM\Proiect\Aplicatie\GestureRecognition\GestureRecognition\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\TheMenace\Desktop\an M1\PPAM\Proiect\Aplicatie\GestureRecognition\GestureRecognition\bin\Release\AForge.xml
+C:\Users\TheMenace\Desktop\an M1\PPAM\Proiect\Aplicatie\GestureRecognition\GestureRecognition\bin\Release\AForge.Imaging.xml
+C:\Users\TheMenace\Desktop\an M1\PPAM\Proiect\Aplicatie\GestureRecognition\GestureRecognition\bin\Release\AForge.Math.xml
+C:\Users\TheMenace\Desktop\an M1\PPAM\Proiect\Aplicatie\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.exe
+C:\Users\TheMenace\Desktop\an M1\PPAM\Proiect\Aplicatie\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.pdb
+C:\Users\Aziz Hussain\Desktop\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.exe
+C:\Users\Aziz Hussain\Desktop\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.pdb
+C:\Users\Aziz Hussain\Desktop\Gesture Recognition\GestureRecognition\GestureRecognition\bin\Release\GestureRecognition.exe
+C:\Users\Aziz Hussain\Desktop\Gesture Recognition\GestureRecognition\GestureRecognition\bin\Release\GestureRecognition.pdb
+C:\Users\Aziz Hussain\Desktop\Gesture Recognition\GestureRecognition\GestureRecognition\bin\Release\AForge.dll
+C:\Users\Aziz Hussain\Desktop\Gesture Recognition\GestureRecognition\GestureRecognition\bin\Release\AForge.Imaging.dll
+C:\Users\Aziz Hussain\Desktop\Gesture Recognition\GestureRecognition\GestureRecognition\bin\Release\AForge.Math.dll
+C:\Users\Aziz Hussain\Desktop\Gesture Recognition\GestureRecognition\GestureRecognition\bin\Release\AForge.Controls.xml
+C:\Users\Aziz Hussain\Desktop\Gesture Recognition\GestureRecognition\GestureRecognition\bin\Release\AForge.Video.xml
+C:\Users\Aziz Hussain\Desktop\Gesture Recognition\GestureRecognition\GestureRecognition\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\Aziz Hussain\Desktop\Gesture Recognition\GestureRecognition\GestureRecognition\bin\Release\AForge.xml
+C:\Users\Aziz Hussain\Desktop\Gesture Recognition\GestureRecognition\GestureRecognition\bin\Release\AForge.Imaging.xml
+C:\Users\Aziz Hussain\Desktop\Gesture Recognition\GestureRecognition\GestureRecognition\bin\Release\AForge.Math.xml
+C:\Users\Aziz Hussain\Desktop\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.csprojResolveAssemblyReference.cache
+C:\Users\Aziz Hussain\Desktop\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.MainForm.resources
+C:\Users\Aziz Hussain\Desktop\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.Properties.Resources.resources
+C:\Users\Aziz Hussain\Desktop\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.csproj.GenerateResource.Cache
+H:\Destopdata 17-8-2015\Desktop data\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.exe
+H:\Destopdata 17-8-2015\Desktop data\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.pdb
+H:\Destopdata 17-8-2015\Desktop data\Gesture Recognition\GestureRecognition\GestureRecognition\bin\Release\GestureRecognition.exe
+H:\Destopdata 17-8-2015\Desktop data\Gesture Recognition\GestureRecognition\GestureRecognition\bin\Release\GestureRecognition.pdb
+H:\Destopdata 17-8-2015\Desktop data\Gesture Recognition\GestureRecognition\GestureRecognition\bin\Release\AForge.dll
+H:\Destopdata 17-8-2015\Desktop data\Gesture Recognition\GestureRecognition\GestureRecognition\bin\Release\AForge.Imaging.dll
+H:\Destopdata 17-8-2015\Desktop data\Gesture Recognition\GestureRecognition\GestureRecognition\bin\Release\AForge.Math.dll
+H:\Destopdata 17-8-2015\Desktop data\Gesture Recognition\GestureRecognition\GestureRecognition\bin\Release\AForge.Controls.xml
+H:\Destopdata 17-8-2015\Desktop data\Gesture Recognition\GestureRecognition\GestureRecognition\bin\Release\AForge.Video.xml
+H:\Destopdata 17-8-2015\Desktop data\Gesture Recognition\GestureRecognition\GestureRecognition\bin\Release\AForge.Video.DirectShow.xml
+H:\Destopdata 17-8-2015\Desktop data\Gesture Recognition\GestureRecognition\GestureRecognition\bin\Release\AForge.xml
+H:\Destopdata 17-8-2015\Desktop data\Gesture Recognition\GestureRecognition\GestureRecognition\bin\Release\AForge.Imaging.xml
+H:\Destopdata 17-8-2015\Desktop data\Gesture Recognition\GestureRecognition\GestureRecognition\bin\Release\AForge.Math.xml
+H:\Destopdata 17-8-2015\Desktop data\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.csprojResolveAssemblyReference.cache
+H:\Destopdata 17-8-2015\Desktop data\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.MainForm.resources
+H:\Destopdata 17-8-2015\Desktop data\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.Properties.Resources.resources
+H:\Destopdata 17-8-2015\Desktop data\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.csproj.GenerateResource.Cache
+C:\Users\Alina Baber\Documents\Visual Studio 2010\Projects\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.exe
+C:\Users\Alina Baber\Documents\Visual Studio 2010\Projects\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.pdb
+C:\Users\Alina Baber\Documents\Visual Studio 2010\Projects\Gesture Recognition\GestureRecognition\GestureRecognition\bin\Release\GestureRecognition.exe
+C:\Users\Alina Baber\Documents\Visual Studio 2010\Projects\Gesture Recognition\GestureRecognition\GestureRecognition\bin\Release\GestureRecognition.pdb
+C:\Users\Alina Baber\Documents\Visual Studio 2010\Projects\Gesture Recognition\GestureRecognition\GestureRecognition\bin\Release\Interop.WMPLib.dll
+C:\Users\Alina Baber\Documents\Visual Studio 2010\Projects\Gesture Recognition\GestureRecognition\GestureRecognition\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Alina Baber\Documents\Visual Studio 2010\Projects\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.csprojResolveAssemblyReference.cache
+C:\Users\Alina Baber\Documents\Visual Studio 2010\Projects\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\Alina Baber\Documents\Visual Studio 2010\Projects\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\Alina Baber\Documents\Visual Studio 2010\Projects\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.csproj.ResolveComReference.cache
+C:\Users\Alina Baber\Documents\Visual Studio 2010\Projects\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.MainForm.resources
+C:\Users\Alina Baber\Documents\Visual Studio 2010\Projects\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.Properties.Resources.resources
+C:\Users\Alina Baber\Documents\Visual Studio 2010\Projects\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.csproj.GenerateResource.Cache
+C:\Users\Alina Baber\Documents\Visual Studio 2010\Projects\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.Help.resources
+C:\Users\Alina Baber\Documents\Visual Studio 2010\Projects\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.Splash_Screen.resources
+C:\Users\Alina Baber\Documents\Visual Studio 2010\Projects\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.About.resources
+E:\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\Interop.WMPLib.dll
+E:\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\AxInterop.WMPLib.dll
+E:\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.csproj.ResolveComReference.cache
+E:\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.exe
+E:\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.pdb
+E:\Gesture Recognition\GestureRecognition\GestureRecognition\bin\Release\GestureRecognition.exe
+E:\Gesture Recognition\GestureRecognition\GestureRecognition\bin\Release\GestureRecognition.pdb
+E:\Gesture Recognition\GestureRecognition\GestureRecognition\bin\Release\Interop.WMPLib.dll
+E:\Gesture Recognition\GestureRecognition\GestureRecognition\bin\Release\AxInterop.WMPLib.dll
+E:\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.csprojResolveAssemblyReference.cache
+E:\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.About.resources
+E:\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.Help.resources
+E:\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.MainForm.resources
+E:\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.Properties.Resources.resources
+E:\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.Splash_Screen.resources
+E:\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.csproj.GenerateResource.Cache
+E:\I-Interpreter\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\Interop.WMPLib.dll
+E:\I-Interpreter\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\AxInterop.WMPLib.dll
+E:\I-Interpreter\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.csproj.ResolveComReference.cache
+E:\I-Interpreter\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.exe
+E:\I-Interpreter\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.pdb
+E:\I-Interpreter\Gesture Recognition\GestureRecognition\GestureRecognition\bin\Release\GestureRecognition.exe
+E:\I-Interpreter\Gesture Recognition\GestureRecognition\GestureRecognition\bin\Release\GestureRecognition.pdb
+E:\I-Interpreter\Gesture Recognition\GestureRecognition\GestureRecognition\bin\Release\Interop.WMPLib.dll
+E:\I-Interpreter\Gesture Recognition\GestureRecognition\GestureRecognition\bin\Release\AxInterop.WMPLib.dll
+E:\I-Interpreter\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.csprojResolveAssemblyReference.cache
+E:\I-Interpreter\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.About.resources
+E:\I-Interpreter\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.Help.resources
+E:\I-Interpreter\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.MainForm.resources
+E:\I-Interpreter\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.Properties.Resources.resources
+E:\I-Interpreter\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.Splash_Screen.resources
+E:\I-Interpreter\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.csproj.GenerateResource.Cache
+D:\I-Interpreter\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\Interop.WMPLib.dll
+D:\I-Interpreter\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\AxInterop.WMPLib.dll
+D:\I-Interpreter\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.csproj.ResolveComReference.cache
+D:\I-Interpreter\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.exe
+D:\I-Interpreter\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.pdb
+D:\I-Interpreter\Gesture Recognition\GestureRecognition\GestureRecognition\bin\Release\GestureRecognition.exe
+D:\I-Interpreter\Gesture Recognition\GestureRecognition\GestureRecognition\bin\Release\GestureRecognition.pdb
+D:\I-Interpreter\Gesture Recognition\GestureRecognition\GestureRecognition\bin\Release\Interop.WMPLib.dll
+D:\I-Interpreter\Gesture Recognition\GestureRecognition\GestureRecognition\bin\Release\AxInterop.WMPLib.dll
+D:\I-Interpreter\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.csprojResolveAssemblyReference.cache
+D:\I-Interpreter\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.About.resources
+D:\I-Interpreter\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.Help.resources
+D:\I-Interpreter\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.MainForm.resources
+D:\I-Interpreter\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.Properties.Resources.resources
+D:\I-Interpreter\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.Splash_Screen.resources
+D:\I-Interpreter\Gesture Recognition\GestureRecognition\GestureRecognition\obj\x86\Release\GestureRecognition.csproj.GenerateResource.Cache
